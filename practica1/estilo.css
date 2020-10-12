@@ -5,6 +5,9 @@ body {
 	color: #818181;
 	background-color: #f6f6f6;
 	margin: 1%;
+	
+	display: flex;
+	flex-wrap: wrap;
 	}
 h1 {
 	font-family: Segoe UI, sans-serif;
@@ -42,9 +45,29 @@ th, td {
 ul {
 	color: #888888;
 }
+header
+{
+	width: 100%;
+}
+
+section
+{
+	width: 70%;
+}
+
+article
+{
+	width: 90%;
+	text-align: left;
+}
+
+aside
+{
+	width: 30%;
+}
 
 footer{
-
-  text-align: right;
+	text-align: right;
+	width: 100%;
 
 }
