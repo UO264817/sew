@@ -85,6 +85,11 @@ a{
 	 color: gray;
 }
 
+figure img
+{
+	width: 600px;
+}
+
 footer{
 	text-align: right;
 	width: 100%;
