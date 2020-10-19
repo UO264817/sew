@@ -3,7 +3,7 @@ body {
 	/*Familiasans-serif*/
 	line-height: 1.8;
 	color: #818181;
-	background-color: #f6f6f6;
+	background-color: #f8f8f8;
 	margin: 1%;
 	
 	display: flex;
@@ -15,7 +15,7 @@ h1 {
 	font-weight: 700;
 	line-height: 26.4px;
 	
-	background-color:#444444;
+	background-color:#242424;
 	color: #DDD;
 	text-transform: uppercase;
 	padding: 70px 25px;
@@ -27,7 +27,7 @@ h2 {
 	font-weight: 700;
 	line-height: 26.4px;
 	
-	background-color:#444444;
+	background-color:#242424;
 	color: #DDD;
 	text-transform: uppercase;
 	padding: 20px 25px;
@@ -43,7 +43,7 @@ th, td {
   text-align: center;
 }
 ul {
-	color: #888888;
+	color: #242424;
 }
 header
 {
@@ -56,13 +56,13 @@ section
 	text-align:center;
 }
 .topnav {
-  background-color: #333;
+  background-color: #020202;
   overflow: hidden;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #f8f8f8;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -77,12 +77,12 @@ section
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #4C4C4C;
   color: white;
 }
 
 a{
-	 color: gray;
+	 color: white;
 }
 
 figure img
