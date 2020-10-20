@@ -44,7 +44,7 @@ th, td {
 }
 
 th a{
-	color: black;
+	color: blue;
 }
 
 ul {
@@ -88,6 +88,11 @@ section
 
 a{
 	 color: white;
+}
+
+figcaption
+{
+	font-size: 20px;	
 }
 
 figure img
