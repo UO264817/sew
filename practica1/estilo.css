@@ -33,7 +33,6 @@ h2 {
 	padding: 20px 25px;
 	text-align: left; 
     }
-
 h3
 {
 	font-family: Segoe UI, sans-serif;
@@ -49,9 +48,9 @@ table {
 	text-align: center;
 }
 th, td, ul {
-  padding: 24px 24px;
+  padding: 16px 16px;
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 th a{
